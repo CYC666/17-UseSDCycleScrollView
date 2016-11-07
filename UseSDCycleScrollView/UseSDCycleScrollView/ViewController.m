@@ -29,6 +29,8 @@
     [self.view addSubview:view1];
     
     
+    UIView *view;
+    
     
     
 }
